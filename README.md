@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm June</h1>
 <h3 align="center">I supply copious lines of code</h3>
 
-- 🔭 I’m currently working on tons of awesome game sites for [2k games](https://2k.com/en-US/)
+- 🔭 I’m currently working in the Data Ai space for [Intuit](https://www.intuit.com/technology/)
 
 - 🌱 I’m currently learning **everything anytime I can ... </> = ❤️**
-
-- 🤝 I’m looking for help with [Kokito](https://www.kokito.net/)
 
 - 👨‍💻 portfolio (a little old) [https://dudenamedjune.herokuapp.com/](https://dudenamedjune.herokuapp.com/)
 
